@@ -9,7 +9,6 @@
   justify-content: space-between;
   align-content: center;
   box-sizing: border-box;
-  box-sizing: border-box;
   height: 293px;
 }
 
@@ -20,7 +19,7 @@
   padding-top: 43px;
   padding-left: 51px;
   font-size: 18px;
-  list-style: circle; 
+  list-style: circle;
 }
 
 .header__menu-item_active {
@@ -313,7 +312,7 @@
 }
 
 .about__logo {
-  display: block;  
+  display: block;
   width: 240px;
   height: 240px;
   margin: 0 auto;
@@ -382,7 +381,6 @@
   justify-content: space-between;
   align-content: center;
   box-sizing: border-box;
-  box-sizing: border-box;
   height: 367px;
   padding: 180px 50px 90px;
 }
@@ -414,7 +412,7 @@
   align-items: end;
   padding-top: 5px;
   font-size: 18px;
-  list-style: none; 
+  list-style: none;
 }
 
 .footer__menu-item_active {
@@ -449,5 +447,4 @@
 .footer__social-icon { 
   color: black;
   text-decoration: none;
-}
-  
+}  
