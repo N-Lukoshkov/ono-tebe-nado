@@ -132,14 +132,14 @@
 .cover__description {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: start;
   align-items: end;
-  gap: 78px;
-  padding: 135px 50px 50px 422px;
+  gap: 68px;
+  padding: 135px 50px 50px 414px;
 }
 
 .cover__description-text {
-  width: 633px;
+  width: 650px;
   color: #fff;
   font-family: Raleway, sans-serif;
   font-weight: 400;
